@@ -1,0 +1,22 @@
+{
+
+"name": "guess-number",
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel ./final/index.html",
+    "build": "parcel build ./final/index.html"
+  },
+  "author": "irfan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.2",
+    "parcel": "^2.13.2",
+    "svgo": "^3.3.2"
+  },
+
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

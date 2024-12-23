@@ -1,0 +1,6 @@
+dist
+Bankist-flowchart.png
+.cache
+.prettierrc
+script.js
+node_modules
