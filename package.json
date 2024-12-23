@@ -1,6 +1,6 @@
 {
 
-"name": "guess-number",
+"name": "bakist-app",
   "version": "1.0.0",
   "default": "index.html",
   "scripts": {
